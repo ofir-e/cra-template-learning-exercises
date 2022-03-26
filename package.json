@@ -1,0 +1,23 @@
+{
+  "name": "cra-template-learning-exercises",
+  "version": "1.0.0",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "typescript",
+    "learning",
+    "exercise",
+    "practice"
+  ],
+  "description": "react learning exercises to master react using Create React App to easily install and start practicing.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ofir-e/cra-template-learning-exercises.git"
+  },
+  "license": "MIT",
+  "files": [
+    "template",
+    "template.json"
+  ]
+}
